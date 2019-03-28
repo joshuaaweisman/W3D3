@@ -1,0 +1,23 @@
+body {
+  /* If the user cannot load the Arial font, the sans-serif font is used */
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 1.5;
+  width: auto;
+  vertical-align: baseline;
+}
+
+body.comic {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+
+ol, li {
+  list-style-type: circle;
+}
+
+img {
+  width: 100%;
+}
